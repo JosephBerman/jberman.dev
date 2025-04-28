@@ -14,8 +14,22 @@ There are two official ways to program the Pico W. I decided to use the C/C++ SD
 
 ### Sensors
 
-The sensors used were MQ-2 Smoke Sensor, DHT20 Temperature and Humidity Dual Purpose Sensor, SGP40 Volatile Organic Compounds Sensor.
+The sensors used were MQ-2 Smoke Sensor, DHT20 Temperature and Humidity Dual Purpose Sensor, SGP40 Volatile Organic Compounds Sensor. We also started development to integrate a thermal infrared camera, however this was not included in the final product. 
+
+The MQ-2 was an analog input and required the usage of the Pico W's onboard analog digital converter. While the other sensors I2C. 
+
+Shown is the test development board connected the external sensors. 
+
+<img src="./img/sensor_development.png" width="500" />
+
+The thermal camera was not included as the image output was not detailed enough for consistent results. 
+
+<img src="./img/thermal_example.png" width="500"/>
+
+### Broadcasting
 
 Utilizing the RP2040's dual cores, I was able to collect data using one core and broadcast UDP packets over the other. The diagram shows the processing cycle.
 
 <img src="./img/cook_sensor_states.png" width="500" height="350"/>
+
+The software loop here would consistently collect data and once it has completed a full collection, it would cache the data. The other core would broadcast data at a set frequency. To ensure the data was complete it would pull from the cache before broadcasting.
