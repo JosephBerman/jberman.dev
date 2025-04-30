@@ -16,7 +16,7 @@ There are two official ways to program the Pico W. I decided to use the C/C++ SD
 
 The sensors used were MQ-2 Smoke Sensor, DHT20 Temperature and Humidity Dual Purpose Sensor, SGP40 Volatile Organic Compounds Sensor. We also started development to integrate a thermal infrared camera, however this was not included in the final product. 
 
-The MQ-2 was an analog input and required the usage of the Pico W's onboard analog digital converter. While the other sensors I2C. 
+The MQ-2 was an analog input and required the usage of the Pico W's onboard analog digital converter. While the other sensors Iwwww2C. 
 
 Shown is the test development board connected the external sensors. 
 
