@@ -10,3 +10,8 @@ I contributed to creating a Python ROS driver wrapper for Nanotec C5-E motor con
 
 The motor controller would accept messages over CAN protocol. The controller accepts an address to write to, then the value to be inserted. The ROS wrapper would take external commands from other nodes and direct it to the motor controller. 
 
+
+Pictured is the robot arm on a belt that was controlled by the ROS driver.
+<p style="text-align: center;"><img src="./img/roboRail.png" width="550"/></p>
+
+

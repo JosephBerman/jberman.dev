@@ -35,6 +35,8 @@ Pictured is my phone connecting to MotionEyeOS and watching the camera stream. Y
 
 <p style="text-align: center;"><img src="./img/senchaCam_example.png" width="350"/></p>
 
+Later after moving the Raspberry Pi 4 was replaced with an exterprise server, HPE ProLiant DL 360P.
+
 ### Cloudflare Zero Trust Tunnel
 
 To connect my camera to the outside world I used Cloudflare Zero Trust Tunnel. This would allow anyone to access my camera feeds without exposing a network port.  
