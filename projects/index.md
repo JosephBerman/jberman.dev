@@ -2,18 +2,13 @@
 
 ### [ZYNQ Ring PUF (Github repo)](https://github.com/JosephBerman/ZYQN-Ring-PUF)
 
-### [CookAware](cook.md)
-<img src="./img/cook_sensor_states.png" width="300"/>
+### [CookAware <br> <img src="./img/cook_sensor_states.png" width="300"/>](cook.md) 
 
-### [SenchaCam](sencha.md)
-<img src="./img/ESP32_node.png" width="200" />
+### [SenchaCam <br> <img src="./img/ESP32_node.png" width="200" />](sencha.md)
 
-### [Boomba Security System](bomba.md)
-<img src="./img/display_example.png" width="300"/>
+### [Boomba Security System <br> <img src="./img/display_example.png" width="300"/>](bomba.md)
 
-### [FPGA Serial Injection](fpgainjection.md)
-<img src="./img/FPGA_Injection.png" width="200"/>
+### [FPGA Serial Injection <br> <img src="./img/FPGA_Injection.png" width="200"/>](fpgainjection.md)
 
-### [RIVeR Lab](river.md)
-<img src="./img/nano_tech.png" width="200"/>
+### [RIVeR Lab <br> <img src="./img/nano_tech.png" width="200"/>](river.md)
 
