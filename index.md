@@ -14,7 +14,3 @@ I am a computer engineer with an interest in embedded and firmware design. My co
 Outside of coding I love photography! I've even been an official photographer for the Boston Marathon. I am self taught and have come a long way since I've started. 
 
 
-
-<p style="text-align: center;">My Best Friend</p>
-<p style="text-align: center;"><img src="./img/sencha.JPG" width="550"/></p>
-
