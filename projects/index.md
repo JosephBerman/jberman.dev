@@ -1,6 +1,6 @@
 ## Projects
 
-### [ZYNQ Ring PUF (Github repo)](https://github.com/JosephBerman/ZYQN-Ring-PUF)
+### [ZYNQ Ring PUF <br> <img src="./puf/result.png" width="400"/>](./puf/puf.md)
 
 ### [CookAware <br> <img src="./img/cook_sensor_states.png" width="300"/>](cook.md) 
 
