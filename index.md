@@ -6,7 +6,7 @@
 
 
 
-Hi! I'm Joseph. I am a computer engineer with an interest in embedded and firmware design. My code bridges the real world with the digital world. I always get excited when I see my code cause physical world changes. In 2024, I completed my Master of Science in Electrical and Computer Engineering with a Concentration in Computer Systems and Software from Northeastern University. I enjoy coding in C, C++, and Verilog.
+Hi! I'm Joseph. I am a computer engineer with an interest in embedded design and robotics. My code bridges the real world with the digital world. I always get excited when I see my code cause physical world changes. In 2024, I completed my Master of Science in Electrical and Computer Engineering with a Concentration in Computer Systems and Software from Northeastern University. I enjoy coding in C, C++, and Verilog.
 
 <p style="text-align: center;"><img src="./img/me.JPG" width="550"/></p>
 
